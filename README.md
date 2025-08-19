@@ -5,16 +5,31 @@ Gaming Hub is a Python-based desktop application that brings together multiple c
 
 ## **Features**
 
-* Car Racing Game (using pygame)
+**Main Menu for easy navigation between games**
 
-* Snake Game
+  <img width="1600" height="900" alt="main menu" src="https://github.com/user-attachments/assets/6451235a-1920-4edb-836b-3d95f72d7337" />
 
-* Tic-Tac-Toe (2-player mode)
 
-* Word Scramble
+**Car Racing Game**
 
-* Main Menu for easy navigation between games
+ <img width="1600" height="900" alt="car racing game" src="https://github.com/user-attachments/assets/5c621376-9338-40d0-9a1d-62e86c322fc5" />
 
+
+**Snake Game**
+
+  <img width="1600" height="900" alt="snake game" src="https://github.com/user-attachments/assets/840f80a9-0799-47e7-8176-cf6c0b453ac0" />
+
+
+**Tic-Tac-Toe (2-player mode)**
+
+  <img width="1600" height="900" alt="tic tac toe" src="https://github.com/user-attachments/assets/925ccc84-2872-4a23-8c16-4111fa0ac44e" />
+
+
+**Word Scramble**
+
+  <img width="1600" height="900" alt="word scramble" src="https://github.com/user-attachments/assets/b6eb3ff2-f7d7-4840-b0f3-1f618816a4ca" />
+
+  
 ## **Technologies Used**
 
 * Python
@@ -66,13 +81,11 @@ python main.py
 
 * Add difficulty levels and scoring system
 
-**Author**
-**Javeria Nadeem**
+**Author:**
+
+Javeria Nadeem
 
 
 **LinkedIn**
 www.linkedin.com/in/javeria-nadeem-1a9149361
 
-
-## **Author**
-**Javeria Nadeem**
