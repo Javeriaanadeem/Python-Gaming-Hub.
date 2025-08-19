@@ -56,10 +56,11 @@ Gaming Hub is a Python-based desktop application that brings together multiple c
 
 ## **Installation**
 
-**Clone this repository:**
+**Repository Structure**
 
-git clone https://github.com/yourusername/gaming-hub.git
-cd gaming-hub
+* The project is divided into multiple modules (each game is written in a separate Python file).  
+* These modules are *not meant to be run individually*. They are managed and executed through the *main.py* file.  
+* All required images are included in a *ZIP folder*. Please extract the ZIP before running the project.  
 
 
 **Install dependencies:**
