@@ -56,7 +56,7 @@ Gaming Hub is a Python-based desktop application that brings together multiple c
 
 ## **Installation**
 
-**Repository Structure**
+**Repository Structure:**
 
 * The project is divided into multiple modules (each game is written in a separate Python file).  
 * These modules are *not meant to be run individually*. They are managed and executed through the *main.py* file.  
